@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "iransans";
+    src: url("../fonts/iransans/iransans.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "estedad";
+    src: url("../fonts/estedad/estedad.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
